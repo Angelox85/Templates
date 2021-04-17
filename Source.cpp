@@ -28,7 +28,7 @@ int main()
 	float b = 5.0f;
 	int c = 3;
 
-	
+	// test function half for diferent data types
 	cout << half(a) << endl;
 	cout << half(b) << endl;
 	cout << half(c) << endl;
