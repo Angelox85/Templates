@@ -15,3 +15,9 @@ double half(double num)
 	return num / 2.0;
 }
 
+// define and overleaded function for int type
+int half(int num)
+{
+	return static_cast<int> (round(num / 2.0));
+}
+
