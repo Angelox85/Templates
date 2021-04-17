@@ -9,3 +9,9 @@ using namespace std;
 
 // define a function half, accepts a single argument and return 
 // value of the same type
+
+double half(double num)
+{
+	return num / 2.0;
+}
+
